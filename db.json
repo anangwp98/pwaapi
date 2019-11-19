@@ -1,0 +1,25 @@
+{
+"products" :
+[
+{"id":1,"name":"Swamp deer","category":"Orange"},
+{"id":2,"name":"Blue catfish","category":"Blue"},
+{"id":3,"name":"Porcupine, prehensile-tailed","category":"Fuscia"},
+{"id":4,"name":"Sloth, pale-throated three-toed","category":"Crimson"},
+{"id":5,"name":"Squirrel, european red","category":"Red"},
+{"id":6,"name":"California sea lion","category":"Orange"},
+{"id":7,"name":"Southern black-backed gull","category":"Crimson"},
+{"id":8,"name":"Spotted deer","category":"Pink"},
+{"id":9,"name":"Eagle, bateleur","category":"Goldenrod"},
+{"id":10,"name":"Bee-eater, carmine","category":"Teal"},
+{"id":11,"name":"Lion, african","category":"Red"},
+{"id":12,"name":"Butterfly, tropical buckeye","category":"Turquoise"},
+{"id":13,"name":"Kangaroo, red","category":"Yellow"},
+{"id":14,"name":"Red-legged pademelon","category":"Yellow"},
+{"id":15,"name":"Ox, musk","category":"Pink"},
+{"id":16,"name":"Hartebeest, red","category":"Pink"},
+{"id":17,"name":"Magistrate black colobus","category":"Teal"},
+{"id":18,"name":"Indian porcupine","category":"Maroon"},
+{"id":19,"name":"Cape cobra","category":"Teal"},
+{"id":20,"name":"King vulture","category":"Orange"}
+]
+}
